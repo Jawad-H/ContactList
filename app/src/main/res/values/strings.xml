@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Contact List</string>
+
+    <!-- Hints -->
+    <string name="enter_name">Name</string>
+    <string name="enter_phone">Phone</string>
+    <string name="enter_email">Email</string>
+
+    <!-- Card -->
+    <string name="name_text">Name</string>
+    <string name="phone_text">Phone</string>
+    <string name="email_text">Email</string>
+
+    <!-- Menu -->
+    <string name="add_contact">Add Contact</string>
+    <string name="find_contact">Find Contact</string>
+    <string name="sort_a_z">Sort A-Z</string>
+    <string name="sort_z_a">Sort Z-A</string>
+
+    <string name="trashcan_descrip">trashcan icon</string>
+
+</resources>

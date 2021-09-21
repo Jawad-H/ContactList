@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+
+
+    <item
+        android:id="@+id/add_contact"
+        android:title="@string/add_contact" />
+<!--    <item-->
+<!--        android:id="@+id/sort_az"-->
+<!--        android:title="@string/sort_a_z" />-->
+<!--    <item-->
+<!--        android:id="@+id/sort_za"-->
+<!--        android:title="@string/sort_z_a" />-->
+
+</menu>

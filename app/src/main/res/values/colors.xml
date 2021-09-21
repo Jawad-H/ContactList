@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#006064</color> <!-- App Bar -->
+    <color name="colorPrimaryDark">#263238</color> <!-- Notifications Bar -->
+    <color name="colorAccent">#FFA000</color> <!-- Contrast Key Elements  -->
+    <color name="colorCard">#ECEFF1</color> <!-- Contact Cards -->
+    <color name="your_colour">#2196F3</color>
+
+
+
+</resources>
